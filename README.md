@@ -4,6 +4,10 @@
 
 Cosmic Cue is an app designed to bring positivity and inspiration into your life. With Cosmic Cue, you can receive daily fortunes and signs from the universe to help guide you on your path.
 
+## Getting Started 
+ ## **[ Click here to use Cosmic Cue](https://main--cosmic-cue.netlify.app/)**<br>
+ Once you have navigated to the app, create an account and start exploring the features. You can receive a new fortune every day, or create custom fortunes for others to receive.<br>
+
 ## Features
 
 - Daily fortunes to provide inspiration and guidance
@@ -12,9 +16,6 @@ Cosmic Cue is an app designed to bring positivity and inspiration into your life
 - Ability to create a sign that others may receive
 - Positivity board to share your manifestations and goals with the Cosmic Cue community
 ---
-## Getting Started 
- ## **[ Click here to use Cosmic Cue](https://main--cosmic-cue.netlify.app/)**<br>
- Once you have navigated to the app, create an account and start exploring the features. You can receive a new fortune every day, or create custom fortunes for others to receive.<br>
 
 **[Click to view Planning Materials](https://trello.com/b/LMJeooEb/cosmic-cue-app)** 
 
